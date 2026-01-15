@@ -1,0 +1,74 @@
+{
+  "users": {
+    "fixaye": 8,
+    "MaJacko1234": 8,
+    "AgentUnraveled": 8,
+    "Fxghter": 8,
+    "FighterWithAnX": 8,
+    "Xaski_45": 8,
+    "ruanpablocfalt": 7,
+    "lukasa09": 7,
+    "EryTaii": 7,
+    "realsayon1": 7,
+    "eyyBoir": 7,
+    "Carlos6061_The": 5,
+    "Srcaiogamerpro": 5,
+    "VagaCalamitas": 3,
+    "stringb0b": 3,
+    "bignameraki": 3,
+    "Megladonxd10hmm": 3,
+    "Monotonics": 3,
+    "habibol51": 2,
+    "Player1": 8,
+    "Player2": 8,
+    "Player3": 8,
+    "Player4": 8
+  },
+  "restrictedstands": {
+    "10000": 8,
+    "900": 8,
+    "1000343": 7,
+    "283": 7,
+    "400691": 7,
+    "3011": 5,
+    "676767676767": 8,
+    "6920": 5,
+    "1001": 5,
+    "13371": 5,
+    "1000": 5,
+    "1540": 5,
+    "377": 2
+  },
+  "permissions": {
+    "2": {
+      "givestand": true,
+      "giveitem": true,
+      "pay": true,
+      "trade": false
+    },
+    "3": {
+      "givestand": false,
+      "giveitem": true,
+      "pay": true,
+      "trade": true
+    },
+    "5": {
+      "givestand": true,
+      "giveitem": true,
+      "pay": true,
+      "trade": true
+    },
+    "7": {
+      "givestand": true,
+      "giveitem": true,
+      "pay": true,
+      "trade": true
+    },
+    "8": {
+      "givestand": true,
+      "giveitem": true,
+      "pay": true,
+      "trade": true
+    }
+  }
+}
